@@ -1,5 +1,3 @@
-# Made by
-Snehasish Banik
 # My LL-1 PARSER
 It is a top-down Parser for a subset of Context-free Grammer.
 # LL1-PARSER-IN-C
